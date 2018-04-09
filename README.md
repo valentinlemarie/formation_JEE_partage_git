@@ -4,7 +4,7 @@
 #### _les commandes githubs_
 
 
-1. *commandes courantes*
+**1. *commandes courante*s**
   * config --global user.email/name : configure git
   * init : initialise un git
   * status : information sur l'etat des modifications sur la branch courante
@@ -14,7 +14,7 @@
   * log : affiche liste des commits
 
 
-2. *les commandes lié aux branche*
+**2. *les commandes lié aux branche***
   * branch :  affiche liste branche ou création une
   * checkout 'branch' : déplacement sur une branch
   * fetch :
@@ -23,7 +23,7 @@
   * stack : enregistre temporairement les modifcations
 
 
-3. *les commandes lié au repository distant*
+**3. *les commandes lié au repository distant***
   * push : enregistre les modfications/commit sur un serveur distant (githubs)
   *  clone : copie un repository distant en local
   * remote add 'branch' "repositoryAdress" : ajoute contenu d'un git distant sur une branche
